@@ -4,7 +4,7 @@
 
 ### Data Analytics 
 
-[Project 1 Title](/Exploratory_Data_Analysis_with_Python_for_Beginner.ipynb)
+[Exploratory Data with Python](/Exploratory_Data_Analysis_with_Python_for_Beginner.ipynb)
 <img src="images/Data analytics.png?raw=true"/>
 
 ---
