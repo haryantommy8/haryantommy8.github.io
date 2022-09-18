@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/Exploratory_Data_Analysis_with_Python_for_Beginner.ipynb)
+<img src="images/Data analytics.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
